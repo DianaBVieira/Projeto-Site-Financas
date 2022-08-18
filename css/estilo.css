@@ -1,0 +1,23 @@
+#home{
+background: #8fbe00;
+color: white;
+}
+
+.caixa{
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+	margin: 5px 15px;
+}
+
+.texto{
+	font-size: 13px;
+	color: #53aa31;
+}
+
+.titulo{
+	font-size: 22px;
+	color: #217201;
+}
